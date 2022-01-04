@@ -1,0 +1,16 @@
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\bin\Debug\net5.0\FactoryPattern.exe
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\bin\Debug\net5.0\FactoryPattern.deps.json
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.json
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\bin\Debug\net5.0\FactoryPattern.runtimeconfig.dev.json
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\bin\Debug\net5.0\FactoryPattern.dll
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\bin\Debug\net5.0\ref\FactoryPattern.dll
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\bin\Debug\net5.0\FactoryPattern.pdb
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csprojAssemblyReference.cache
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\obj\Debug\net5.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfoInputs.cache
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfo.cs
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.CoreCompileInputs.cache
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\obj\Debug\net5.0\FactoryPattern.dll
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\obj\Debug\net5.0\ref\FactoryPattern.dll
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\obj\Debug\net5.0\FactoryPattern.pdb
+D:\Personal\Learning\DesignPatterns\Creational\FactoryPattern\obj\Debug\net5.0\FactoryPattern.genruntimeconfig.cache
